@@ -35,7 +35,7 @@ centralPortal {
 
     pom {
         name.set("Location Manager")
-        description.set("Easy to create a NettyServer and a NettyClient")
+        description.set("Sets minecraft locations in a file")
         url.set("https://github.com/avionik-world/location-manager")
 
         developers {
