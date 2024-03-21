@@ -1,4 +1,4 @@
-# Location Manager
+# Location Manager 🌆
 With the NettyKit it is easy to create a NettyServer and a NettyClient. It is important to note that this project requires the client server API.
 
 ## Using the Location Manager in your plugin
